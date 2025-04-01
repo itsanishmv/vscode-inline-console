@@ -13,8 +13,8 @@
   "main": "./extension.js",
   "contributes": {
     "commands": [{
-      "command": "inline-console.helloWorld",
-      "title": "Hello jarvis"
+      "command": "vscode-inline-console.helloWorld",
+      "title": "Hello anish"
     }]
   },
   "scripts": {
